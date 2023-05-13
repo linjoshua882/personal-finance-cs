@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\bin\Debug\net8.0\personal-finance.exe
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\bin\Debug\net8.0\personal-finance.deps.json
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\bin\Debug\net8.0\personal-finance.runtimeconfig.json
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\bin\Debug\net8.0\personal-finance.dll
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\bin\Debug\net8.0\personal-finance.pdb
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.dll
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\refint\personal-finance.dll
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.pdb
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\personal-finance.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Coding\C#\personal-finance\obj\Debug\net8.0\ref\personal-finance.dll
