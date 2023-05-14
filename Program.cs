@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace FinanceManager
@@ -9,7 +9,6 @@ namespace FinanceManager
         {
             Console.WriteLine("Welcome to Finance Manager!");
 
-            // create a list of budget categories
             List<string> budgetCategories = new List<string>();
             budgetCategories.Add("Housing");
             budgetCategories.Add("Transportation");
@@ -18,7 +17,6 @@ namespace FinanceManager
             budgetCategories.Add("Entertainment");
             budgetCategories.Add("Miscellaneous");
 
-            // prompt user to enter budget amounts for each category
             Dictionary<string, double> budgetAmounts = new Dictionary<string, double>();
             foreach (string category in budgetCategories)
             {
@@ -27,10 +25,8 @@ namespace FinanceManager
                 budgetAmounts.Add(category, budgetAmount);
             }
 
-            // create a list of expenses
             List<Expense> expenses = new List<Expense>();
 
-            // prompt user to enter expenses
             while (true)
             {
                 Console.Write("Enter expense name (or 'q' to quit): ");
@@ -50,7 +46,6 @@ namespace FinanceManager
                 expenses.Add(expense);
             }
 
-            // calculate total expenses and budget amounts
             double totalExpenses = 0;
             Dictionary<string, double> totalBudgetAmounts = new Dictionary<string, double>();
             foreach (string category in budgetCategories)
@@ -70,7 +65,6 @@ namespace FinanceManager
                 Console.WriteLine($"Budget amount for {category}: {budgetAmount}");
             }
 
-            // display spending report
             Console.WriteLine($"Total expenses: {totalExpenses}");
             Console.WriteLine("Spending report:");
             foreach (Expense expense in expenses)
